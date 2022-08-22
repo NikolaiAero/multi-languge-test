@@ -1,4 +1,3 @@
 multi-languge-test/.pytest_cache
-multi-languge-test/__pycache__.
-__pycache__.
-/Users/nikolai/Desktop/lesson/multi-languge-test/__pycache__/
+__pycache__/conftest.cpython-310-pytest-7.1.2.pyc
+__pycache__/test_items.cpython-310-pytest-7.1.2.pyc
