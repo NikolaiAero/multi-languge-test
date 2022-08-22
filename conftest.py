@@ -6,7 +6,9 @@ from selenium.webdriver.chrome.options import Options
 import pytest
 
 
-path_to_driver = '/Users/nikolai/Desktop/lesson/chromedriver'
+# путь до chromedriver
+path_to_driver = 'path to chromedriver'
+
 driver_service = Service(executable_path=path_to_driver)
 options = Options()
 
