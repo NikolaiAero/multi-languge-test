@@ -18,5 +18,11 @@ driver_service = Service(executable_path=path_to_driver)
 ```
 pytest -s --language=es test_items.py
 ```
+3. Run the test with this command
+
+
+```
+pytest -s --language=fr test_items.py
+```
 
 😊 Thanks for watching!
