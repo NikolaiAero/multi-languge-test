@@ -14,7 +14,7 @@ options = Options()
 
 def pytest_addoption(parser):
     parser.addoption('--language', action='store', default=None,
-                     help="Choose lang: ru or de or es or en. For example --language=es", choices=('ru', "de" , "es", "en",))
+                     help="Choose lang: ru or fr or es or en. For example --language=es", choices=("ru", "fr" , "es", "en",))
 
 
 @pytest.fixture
